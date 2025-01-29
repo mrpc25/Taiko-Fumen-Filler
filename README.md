@@ -37,6 +37,12 @@
 * 取得預測的結果並輸出成譜面檔案
   * `Filling The Predict Result Info Fumen`: 將預測結果顯示在左下角的大文字框
   * 透過左上的`File`標籤裡，透過`Save`選項來將結果儲存成譜面檔案(.tja)
+* （非必要）查看各個鼓點的預測情況
+  * 可以透過右下角選擇`BAR`和`NOTE`來決定來查看各鼓點的預測機率。
+  * > 如果要查看第4小節，第8個鼓點，那麼BAR選擇3，NOTE選擇7 <br>
+    > 如果要查看第1小節，第4個鼓點，那麼BAR選擇0，NOTE選擇3 <br>
+    > 如果要查看第6小節，第1個鼓點，那麼BAR選擇5，NOTE選擇0 <br>
+    > 以此類推
 
 ### GUI Flow Chart
 ![This is an alt text.](/img/gui_flow_chart.png "Flow Chart")
