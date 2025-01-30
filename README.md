@@ -119,7 +119,7 @@ torch              2.6.0+cu118
 torchaudio         2.6.0+cu118
 tqdm               4.67.1
 ```
-> edit: 當初沒有特別注意版本問題，除了python本身的版本以外，以上版本只是做為參考用
+> edit: 除了python本身的版本以外，以上版本只是做為參考用，經測試後可以運行的版本
 
 ## Model Types
 | Model Name | Corresponding Model |  |
